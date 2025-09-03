@@ -1,19 +1,19 @@
--虛擬環境安裝-
-版本:
-python --version
-
-1->環境變數
-C:\Users\User\AppData\Local\Programs\Python\Python39
-C:\Users\User\AppData\Local\Programs\Python\Python39\Scripts
-
-2->安裝virtualenv
-pip install virtualenv
-virtualenv (取一個名稱)
-
-3->啟動
-到虛擬環境Scripts目錄中啟動
+-虛擬環境安裝-  
+版本:  
+python --version  
+  
+1->環境變數  
+C:\Users\User\AppData\Local\Programs\Python\Python39  
+C:\Users\User\AppData\Local\Programs\Python\Python39\Scripts  
+  
+2->安裝virtualenv  
+pip install virtualenv  
+virtualenv (取一個名稱)  
+  
+3->啟動  
+到虛擬環境Scripts目錄中啟動  
 activate  
-
+  
 -相關-  
 https://www.aconvert.com/tw/icon/png-to-ico/  
 https://huggingface.co/docs/diffusers/v0.15.0/api/pipelines/stable_diffusion/overview  
