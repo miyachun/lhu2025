@@ -1,3 +1,8 @@
+
+pip install labelImg  
+
+
+
 -虛擬環境安裝-  
 版本:  
 python --version  
