@@ -26,6 +26,7 @@ activate
 https://universe.roboflow.com/  
 
 https://www.aconvert.com/tw/icon/png-to-ico/  
+https://github.com/Mikubill/sd-webui-controlnet  
 https://huggingface.co/docs/diffusers/v0.35.1/en/api/pipelines/stable_diffusion/overview  
 https://qr.ioi.tw/zh/
 
