@@ -24,9 +24,10 @@ activate
   
 -相關-  
 https://universe.roboflow.com/  
-
-https://www.aconvert.com/tw/icon/png-to-ico/  
+https://docs.ultralytics.com/zh/solutions/  
+https://github.com/AUTOMATIC1111/stable-diffusion-webui  
 https://github.com/Mikubill/sd-webui-controlnet  
 https://huggingface.co/docs/diffusers/v0.35.1/en/api/pipelines/stable_diffusion/overview  
-https://qr.ioi.tw/zh/
+https://www.aconvert.com/tw/icon/png-to-ico/  
+https://qr.ioi.tw/zh/  
 
