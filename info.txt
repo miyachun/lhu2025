@@ -1,0 +1,9 @@
+@echo off
+set CUDA_LAUNCH_BLOCKING=1
+set TORCH_USE_CUDA_DSA=1
+set PYTHON=
+set GIT=
+set VENV_DIR=
+set COMMANDLINE_ARGS= --xformers --autolaunch --medvram --skip-torch-cuda-test --no-half
+
+call webui.bat
