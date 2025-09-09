@@ -1,7 +1,6 @@
 3.10  
 https://www.python.org/downloads/windows/  
 
-https://civitai.com/models/139562/realvisxl-v50  
 
 
 -虛擬環境安裝-  
@@ -27,6 +26,9 @@ activate
 https://universe.roboflow.com/  
 https://docs.ultralytics.com/zh/solutions/  
 https://github.com/AUTOMATIC1111/stable-diffusion-webui  
+
+https://civitai.com/models/139562/realvisxl-v50  
+
 https://github.com/Mikubill/sd-webui-controlnet  
 https://huggingface.co/docs/diffusers/v0.35.1/en/api/pipelines/stable_diffusion/overview  
 https://www.aconvert.com/tw/icon/png-to-ico/  
