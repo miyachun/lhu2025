@@ -24,7 +24,10 @@ activate
   
 -相關-  
 https://universe.roboflow.com/  
+
+pip install ultralytics  
 https://docs.ultralytics.com/zh/solutions/  
+  
 https://github.com/AUTOMATIC1111/stable-diffusion-webui  
 
 https://civitai.com/models/139562/realvisxl-v50  
