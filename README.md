@@ -1,6 +1,7 @@
 3.10  
 https://www.python.org/downloads/windows/  
 
+https://civitai.com/models/139562/realvisxl-v50  
 
 
 -虛擬環境安裝-  
