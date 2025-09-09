@@ -1,5 +1,5 @@
-
-pip install labelImg  
+3.10  
+https://www.python.org/downloads/windows/  
 
 
 
