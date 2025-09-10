@@ -34,6 +34,8 @@ C:\stable-diffusion-webui-master\models\Stable-diffusion
 https://civitai.com/models/139562/realvisxl-v50  
 
 https://github.com/Mikubill/sd-webui-controlnet  
+https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main  
+
 https://huggingface.co/docs/diffusers/v0.35.1/en/api/pipelines/stable_diffusion/overview  
 https://www.aconvert.com/tw/icon/png-to-ico/  
 https://qr.ioi.tw/zh/  
