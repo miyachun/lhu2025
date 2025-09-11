@@ -41,6 +41,7 @@ https://huggingface.co/docs/diffusers/v0.35.1/en/api/pipelines/stable_diffusion/
 
 https://www.w3schools.com/  
 https://www.runoob.com/  
+https://flask.palletsprojects.com/en/stable/  
 
 https://www.aconvert.com/tw/icon/png-to-ico/  
 https://qr.ioi.tw/zh/  
