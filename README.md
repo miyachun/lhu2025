@@ -1,3 +1,5 @@
+
+
 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.02  
 
 3.10  
@@ -23,6 +25,9 @@ activate
 ----------------------------------------------------------------------------------------------------    
   
 -相關-  
+
+https://www.arduino.cc/en/software/  
+
 https://universe.roboflow.com/  
 
 pip install ultralytics  
