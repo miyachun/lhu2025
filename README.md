@@ -29,6 +29,7 @@ pip install ultralytics
 https://docs.ultralytics.com/zh/solutions/  
   
 https://github.com/AUTOMATIC1111/stable-diffusion-webui  
+https://github.com/lllyasviel/Fooocus  
 
 C:\stable-diffusion-webui-master\models\Stable-diffusion  
 https://civitai.com/models/139562/realvisxl-v50  
@@ -44,7 +45,6 @@ https://www.runoob.com/
 https://flask.palletsprojects.com/en/stable/  
 https://getbootstrap.com/  
 
+
 https://www.aconvert.com/tw/icon/png-to-ico/  
 https://qr.ioi.tw/zh/  
-https://github.com/comfyanonymous/ComfyUI  
-
